@@ -4,7 +4,10 @@ This is a serverless AWS Cloud hosted app that utilizes a CI/CD DevOps inspired 
 
 * AWS Lambda
 * AWS Cloud Formation
+* API Endpoint
 * GitHub Actions (YAML .yml)
 * GitHub hook `pre-commit` (BASH script)
 * Git // GitHub
 * VS Code
+
+## Thank you Pixegami for your guidance
