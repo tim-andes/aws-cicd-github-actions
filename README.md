@@ -1,14 +1,10 @@
-# Welcome to your CDK TypeScript project
+# AWS CI/CD and GitHub Actions Playground
 
-This is a blank project for CDK development with TypeScript.
+This is a serverless AWS Cloud hosted app that utilizes a CI/CD DevOps inspired workflow. The skills involved aim to level up the next iterations of my AWS Cloud projects.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+* AWS Lambda
+* AWS Cloud Formation
+* GitHub Actions (YAML .yml)
+* GitHub hook `pre-commit` (BASH script)
+* Git // GitHub
+* VS Code
